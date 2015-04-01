@@ -44,7 +44,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="590"
-     inkscape:cy="2596.6204"
+     inkscape:cy="1316.6204"
      inkscape:document-units="px"
      inkscape:current-layer="g34499"
      showgrid="false"
@@ -770,6 +770,71 @@
      inkscape:groupmode="layer"
      id="g34499"
      transform="translate(0,3737.6379)">
+    <g
+       id="g13543">
+      <g
+         transform="translate(0,6)"
+         id="g13507">
+        <rect
+           ry="0"
+           y="1615.6377"
+           x="0"
+           height="174.00009"
+           width="237"
+           id="rect13501"
+           style="opacity:1;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           transform="scale(1,-1)" />
+        <path
+           sodipodi:type="star"
+           style="opacity:1;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:3.01907897;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path13505"
+           sodipodi:sides="3"
+           sodipodi:cx="196"
+           sodipodi:cy="-1691.6379"
+           sodipodi:r1="97.6166"
+           sodipodi:r2="48.808296"
+           sodipodi:arg1="0.78539816"
+           sodipodi:arg2="1.8325957"
+           inkscape:flatsided="false"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 265.02536,-1622.6126 -81.65788,-21.8801 -81.65787,-21.8802 59.77771,-59.7777 59.77771,-59.7777 21.88016,81.6578 z"
+           inkscape:transform-center-x="-10.40111"
+           inkscape:transform-center-y="0.015371435"
+           transform="matrix(-0.41186439,0.26665932,0.11049379,0.99396964,524.84863,-72.928395)" />
+      </g>
+      <g
+         transform="matrix(-1,0,0,1,940.83421,6)"
+         id="g13511">
+        <rect
+           transform="scale(1,-1)"
+           style="opacity:1;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect13513"
+           width="237"
+           height="174.00009"
+           x="0"
+           y="1615.6377"
+           ry="0" />
+        <path
+           transform="matrix(-0.41186439,0.26665932,0.11049379,0.99396964,524.84863,-72.928395)"
+           inkscape:transform-center-y="0.015371435"
+           inkscape:transform-center-x="-10.40111"
+           d="m 265.02536,-1622.6126 -81.65788,-21.8801 -81.65787,-21.8802 59.77771,-59.7777 59.77771,-59.7777 21.88016,81.6578 z"
+           inkscape:randomized="0"
+           inkscape:rounded="0"
+           inkscape:flatsided="false"
+           sodipodi:arg2="1.8325957"
+           sodipodi:arg1="0.78539816"
+           sodipodi:r2="48.808296"
+           sodipodi:r1="97.6166"
+           sodipodi:cy="-1691.6379"
+           sodipodi:cx="196"
+           sodipodi:sides="3"
+           id="path13515"
+           style="opacity:1;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:3.01907897;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           sodipodi:type="star" />
+      </g>
+    </g>
     <rect
        y="-3395.6379"
        x="0"
@@ -1421,77 +1486,77 @@
        width="941"
        height="486.99991"
        x="0"
-       y="-2102.6377"
+       y="-2270.6377"
        ry="0" />
     <text
        sodipodi:linespacing="150%"
        id="text34909"
-       y="-2048.8076"
+       y="-2216.8076"
        x="364.04767"
        style="font-style:normal;font-weight:normal;font-size:32.8649826px;line-height:150%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan34937"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.91553688px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke-width:0.99999988px"
-         y="-2048.8076"
+         y="-2216.8076"
          x="364.04767"
          sodipodi:role="line">Support Resources</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:32.8649826px;line-height:150%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="141.04767"
-       y="-1956.8076"
+       y="-2124.8076"
        id="text35043"
        sodipodi:linespacing="150%"><tspan
          sodipodi:role="line"
          x="141.04767"
-         y="-1956.8076"
+         y="-2124.8076"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke-width:0.99999988px"
          id="tspan35045">Chat</tspan></text>
     <text
        sodipodi:linespacing="150%"
        id="text35047"
-       y="-1963.8076"
+       y="-2131.8076"
        x="442.04767"
        style="font-style:normal;font-weight:normal;font-size:32.8649826px;line-height:150%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan35049"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke-width:0.99999988px"
-         y="-1963.8076"
+         y="-2131.8076"
          x="442.04767"
          sodipodi:role="line">Email</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:32.8649826px;line-height:150%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="710.04767"
-       y="-1966.8076"
+       y="-2134.8076"
        id="text35051"
        sodipodi:linespacing="150%"><tspan
          sodipodi:role="line"
          x="710.04767"
-         y="-1966.8076"
+         y="-2134.8076"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke-width:0.99999988px"
          id="tspan35053">Documentation</tspan></text>
     <text
        sodipodi:linespacing="150%"
        id="text35055"
-       y="-1911.3325"
+       y="-2079.3325"
        x="72.371094"
        style="font-style:normal;font-weight:normal;font-size:24.62237358px;line-height:150%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke-width:0.99999994px"
-         y="-1911.3325"
+         y="-2079.3325"
          x="72.371094"
          sodipodi:role="line"
          id="tspan35193">Users and developers are available </tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke-width:0.99999994px"
-         y="-1887.3325"
+         y="-2055.3325"
          x="72.371094"
          sodipodi:role="line"
          id="tspan35197">in the<tspan
    style="font-weight:bold;fill:#3c6eb4"
    id="tspan35195"> #fedora-kde </tspan>irc channel on </tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke-width:0.99999994px"
-         y="-1863.3325"
+         y="-2031.3325"
          x="72.371094"
          sodipodi:role="line"
          id="tspan35201"><tspan
@@ -1513,45 +1578,45 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="75"
-       y="-1954.6379"
+       y="-2122.6379"
        id="text13315"
        sodipodi:linespacing="521%"><tspan
          sodipodi:role="line"
          id="tspan13317"
          x="75"
-         y="-1954.6379"></tspan></text>
+         y="-2122.6379"></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:32.8649826px;line-height:150%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="380.04767"
-       y="-1957.8076"
+       y="-2125.8076"
        id="text13319"
        sodipodi:linespacing="150%"><tspan
          sodipodi:role="line"
          x="380.04767"
-         y="-1957.8076"
+         y="-2125.8076"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:150%;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;fill:#000000;stroke-width:0.99999988px"
          id="tspan13321"></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:24.62237358px;line-height:150%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="378.37109"
-       y="-1911.3325"
+       y="-2079.3325"
        id="text13351"
        sodipodi:linespacing="150%"><tspan
          sodipodi:role="line"
          x="378.37109"
-         y="-1911.3325"
+         y="-2079.3325"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke-width:0.99999994px"
          id="tspan13397">Users and developers are also </tspan><tspan
          sodipodi:role="line"
          x="378.37109"
-         y="-1887.3325"
+         y="-2055.3325"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke-width:0.99999994px"
          id="tspan13403">available on the mailing list at </tspan><tspan
          sodipodi:role="line"
          x="378.37109"
-         y="-1863.3325"
+         y="-2031.3325"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke-width:0.99999994px"
          id="tspan13405"><tspan
    style="font-weight:bold;fill:#3c6eb4"
@@ -1559,34 +1624,34 @@
     <text
        sodipodi:linespacing="150%"
        id="text13365"
-       y="-1959.8076"
+       y="-2127.8076"
        x="660.04767"
        style="font-style:normal;font-weight:normal;font-size:32.8649826px;line-height:150%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan13367"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:150%;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;fill:#000000;stroke-width:0.99999988px"
-         y="-1959.8076"
+         y="-2127.8076"
          x="660.04767"
          sodipodi:role="line"></tspan></text>
     <text
        sodipodi:linespacing="150%"
        id="text13369"
-       y="-1913.3325"
+       y="-2081.3325"
        x="656.37109"
        style="font-style:normal;font-weight:normal;font-size:24.62237358px;line-height:150%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke-width:0.99999994px"
-         y="-1913.3325"
+         y="-2081.3325"
          x="656.37109"
          sodipodi:role="line"
          id="tspan13425">Specific documentation and </tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke-width:0.99999994px"
-         y="-1889.3325"
+         y="-2057.3325"
          x="656.37109"
          sodipodi:role="line"
          id="tspan13431">tutorials are available at the </tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke-width:0.99999994px"
-         y="-1865.3325"
+         y="-2033.3325"
          x="656.37109"
          sodipodi:role="line"
          id="tspan13437"><tspan
@@ -1595,152 +1660,82 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:32.8649826px;line-height:150%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="280.04767"
-       y="-1763.8076"
+       x="128.04767"
+       y="-1931.8076"
        id="text13460"
        sodipodi:linespacing="150%"><tspan
          sodipodi:role="line"
-         x="280.04767"
-         y="-1763.8076"
+         x="128.04767"
+         y="-1931.8076"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke-width:0.99999988px"
          id="tspan13462">General Help Using Fedora</tspan></text>
     <text
        sodipodi:linespacing="150%"
        id="text13464"
-       y="-1757.8076"
-       x="224.04767"
+       y="-1925.8076"
+       x="72.047668"
        style="font-style:normal;font-weight:normal;font-size:32.8649826px;line-height:150%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan13466"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:150%;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;fill:#000000;stroke-width:0.99999988px"
-         y="-1757.8076"
-         x="224.04767"
+         y="-1925.8076"
+         x="72.047668"
          sodipodi:role="line"></tspan></text>
     <text
        sodipodi:linespacing="150%"
        id="text13468"
-       y="-1725.3325"
-       x="226.37109"
+       y="-1893.3325"
+       x="74.371094"
        style="font-style:normal;font-weight:normal;font-size:24.62237358px;line-height:150%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke-width:0.99999994px"
-         y="-1725.3325"
-         x="226.37109"
+         y="-1893.3325"
+         x="74.371094"
          sodipodi:role="line"
-         id="tspan13485">Sometimes you may encounter an issue with this spin that you can get help </tspan><tspan
+         id="tspan13491">Sometimes you may encounter an issue with this spin that you can get help  with using general Fedora support </tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke-width:0.99999994px"
-         y="-1701.3325"
-         x="226.37109"
+         y="-1869.3325"
+         x="74.371094"
          sodipodi:role="line"
-         id="tspan13491">with using general Fedora support resources. A list of those resources is </tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke-width:0.99999994px"
-         y="-1677.3325"
-         x="226.37109"
-         sodipodi:role="line"
-         id="tspan13493">available at the <tspan
+         id="tspan13493">resources. A list of those resources is available at the <tspan
    style="font-weight:bold;fill:#3c6eb4"
    id="tspan13495">Fedora 'Get Help' page</tspan>.</tspan></text>
     <g
-       id="g13517"
-       transform="translate(0,-486)">
-      <g
-         transform="translate(0,340)"
-         id="g34868">
-        <rect
-           transform="scale(1,-1)"
-           style="opacity:1;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect34730"
-           width="270"
-           height="47.999992"
-           x="335"
-           y="2021.6382"
-           ry="13" />
-        <text
-           sodipodi:linespacing="521%"
-           id="text34732"
-           y="-2036.3276"
-           x="382.01703"
-           style="font-style:normal;font-weight:normal;font-size:31.67524529px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           xml:space="preserve"><tspan
-             id="tspan34760"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.01357651px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff;stroke-width:1px"
-             y="-2036.3276"
-             x="382.01703"
-             sodipodi:role="line">Download Now</tspan></text>
-      </g>
+       id="g34868"
+       transform="translate(0,346)">
+      <rect
+         ry="13"
+         y="2021.6382"
+         x="335"
+         height="47.999992"
+         width="270"
+         id="rect34730"
+         style="opacity:1;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         transform="scale(1,-1)" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:24.62237358px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="364.37109"
-         y="-1660.3325"
-         id="text34895"
+         style="font-style:normal;font-weight:normal;font-size:31.67524529px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="382.01703"
+         y="-2036.3276"
+         id="text34732"
          sodipodi:linespacing="521%"><tspan
            sodipodi:role="line"
-           id="tspan34897"
-           x="364.37109"
-           y="-1660.3325"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';fill:#a7a9ac;stroke-width:0.99999994px">54K Torrent File for 64-bit PC ISO</tspan></text>
-      <g
-         id="g13507">
-        <rect
-           ry="0"
-           y="1615.6377"
-           x="0"
-           height="174.00009"
-           width="237"
-           id="rect13501"
-           style="opacity:1;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           transform="scale(1,-1)" />
-        <path
-           sodipodi:type="star"
-           style="opacity:1;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:3.01907897;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="path13505"
-           sodipodi:sides="3"
-           sodipodi:cx="196"
-           sodipodi:cy="-1691.6379"
-           sodipodi:r1="97.6166"
-           sodipodi:r2="48.808296"
-           sodipodi:arg1="0.78539816"
-           sodipodi:arg2="1.8325957"
-           inkscape:flatsided="false"
-           inkscape:rounded="0"
-           inkscape:randomized="0"
-           d="m 265.02536,-1622.6126 -81.65788,-21.8801 -81.65787,-21.8802 59.77771,-59.7777 59.77771,-59.7777 21.88016,81.6578 z"
-           inkscape:transform-center-x="-10.40111"
-           inkscape:transform-center-y="0.015371435"
-           transform="matrix(-0.41186439,0.26665932,0.11049379,0.99396964,524.84863,-72.928395)" />
-      </g>
-      <g
-         transform="matrix(-1,0,0,1,940.83421,0)"
-         id="g13511">
-        <rect
-           transform="scale(1,-1)"
-           style="opacity:1;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect13513"
-           width="237"
-           height="174.00009"
-           x="0"
-           y="1615.6377"
-           ry="0" />
-        <path
-           transform="matrix(-0.41186439,0.26665932,0.11049379,0.99396964,524.84863,-72.928395)"
-           inkscape:transform-center-y="0.015371435"
-           inkscape:transform-center-x="-10.40111"
-           d="m 265.02536,-1622.6126 -81.65788,-21.8801 -81.65787,-21.8802 59.77771,-59.7777 59.77771,-59.7777 21.88016,81.6578 z"
-           inkscape:randomized="0"
-           inkscape:rounded="0"
-           inkscape:flatsided="false"
-           sodipodi:arg2="1.8325957"
-           sodipodi:arg1="0.78539816"
-           sodipodi:r2="48.808296"
-           sodipodi:r1="97.6166"
-           sodipodi:cy="-1691.6379"
-           sodipodi:cx="196"
-           sodipodi:sides="3"
-           id="path13515"
-           style="opacity:1;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:3.01907897;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           sodipodi:type="star" />
-      </g>
+           x="382.01703"
+           y="-2036.3276"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.01357651px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff;stroke-width:1px"
+           id="tspan34760">Download Now</tspan></text>
     </g>
+    <text
+       sodipodi:linespacing="521%"
+       id="text34895"
+       y="-1654.3325"
+       x="364.37109"
+       style="font-style:normal;font-weight:normal;font-size:24.62237358px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';fill:#a7a9ac;stroke-width:0.99999994px"
+         y="-1654.3325"
+         x="364.37109"
+         id="tspan34897"
+         sodipodi:role="line">54K Torrent File for 64-bit PC ISO</tspan></text>
   </g>
 </svg>
