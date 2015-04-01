@@ -11,12 +11,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="940"
-   height="2588"
+   height="2930"
    id="svg9305"
    version="1.1"
    inkscape:version="0.91+devel r13893"
    sodipodi:docname="spins-mockup_spin-details.svg"
-   viewBox="0 0 940 2588"
+   viewBox="0 0 940 2930"
    inkscape:export-filename="/home/duffy/SparkleShare/fedora-spins/desktops/mockupv1.1.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -44,7 +44,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="590"
-     inkscape:cy="996.62035"
+     inkscape:cy="2596.6204"
      inkscape:document-units="px"
      inkscape:current-layer="g34499"
      showgrid="false"
@@ -220,12 +220,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(0,3395.6379)"
+     transform="translate(0,3737.6379)"
      id="g33558"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1 copy"
@@ -769,7 +769,7 @@
      inkscape:label="Layer 1 copy copy"
      inkscape:groupmode="layer"
      id="g34499"
-     transform="translate(0,3395.6379)">
+     transform="translate(0,3737.6379)">
     <rect
        y="-3395.6379"
        x="0"
