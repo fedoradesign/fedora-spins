@@ -16,7 +16,10 @@
    version="1.1"
    inkscape:version="0.91+devel r13893"
    sodipodi:docname="spins-mockup_front-page.svg"
-   viewBox="0 0 940 2200">
+   viewBox="0 0 940 2200"
+   inkscape:export-filename="/home/duffy/Repositories/fedora-spins/desktops/mockupv1.png"
+   inkscape:export-xdpi="25.525427"
+   inkscape:export-ydpi="25.525427">
   <defs
      id="defs9307">
     <pattern
@@ -332,9 +335,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
+     inkscape:zoom="0.35355339"
      inkscape:cx="335.72595"
-     inkscape:cy="1852.3018"
+     inkscape:cy="834.06808"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -513,6 +516,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,1147.6378)">
+    <rect
+       y="-1147.6378"
+       x="0"
+       height="2200"
+       width="940"
+       id="rect33556"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
        style="opacity:1;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect33536"
