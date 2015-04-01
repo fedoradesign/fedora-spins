@@ -44,7 +44,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="550"
-     inkscape:cy="1428.5584"
+     inkscape:cy="1229.7747"
      inkscape:document-units="px"
      inkscape:current-layer="g34499"
      showgrid="false"
@@ -15902,7 +15902,7 @@ AElFTkSuQmCC
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <image
-       y="-2117.7339"
+       y="-2617.7339"
        x="-940"
        id="image34507"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB74AAAJmCAYAAADLvS91AAAABHNCSVQICAgIfAhkiAAAIABJREFU
@@ -16967,9 +16967,9 @@ nFs1HCGE6bfffvvXaZr+OYTwj865v1v/GQDd3Us+d92Kfc3LbVDmXL74QOW9dwpL+eMYsQc4WU7C
 OdoMiWjLM0lf57JEqXPvfZjnWex3BIwRe+/eU7h8aVE8mwDXSO/nQAXOoTxD7aezfQfJfQ4hKDsO
 oIfgnPtf59yvzrl/+/79+y/e+zn+x/8HHdaxAUw/UC4AAAAASUVORK5CYII=
 "
-       style="stroke-width:3.09564233;image-rendering:optimizeQuality"
+       style="stroke-width:1.63028979;image-rendering:optimizeQuality"
        preserveAspectRatio="none"
-       height="135.09607"
+       height="487.09607"
        width="940"
        transform="scale(-1,1)" />
     <g
@@ -21280,13 +21280,13 @@ oIfgnPtf59yvzrl/+/79+y/e+zn+x/8HHdaxAUw/UC4AAAAASUVORK5CYII=
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:23.45315742px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="837.35443"
-       y="-3347.5188"
+       y="-3547.5188"
        id="text34531"
        sodipodi:linespacing="521%"><tspan
          sodipodi:role="line"
          id="tspan34533"
          x="837.35443"
-         y="-3347.5188"
+         y="-3547.5188"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Montserrat Alternates';-inkscape-font-specification:'Montserrat Alternates';fill:#3c6eb4;stroke-width:0.99999988px">SPINS</tspan></text>
     <g
        inkscape:export-ydpi="25.525427"
@@ -22300,7 +22300,7 @@ AElFTkSuQmCC
          y="-1318.4165"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff;stroke-width:0.99999994px">Learn more</tspan></text>
     <g
-       transform="matrix(1.195035,0,0,1.195035,-120.63378,-3682.7276)"
+       transform="matrix(1.195035,0,0,1.195035,-120.63378,-3882.7276)"
        id="g34643"
        style="stroke-width:0.83679563">
       <text
@@ -22406,80 +22406,80 @@ AElFTkSuQmCC
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:42.35553741px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:1px">Be Free.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:24.62237358px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:24.62237358px;line-height:150%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="160.37109"
-       y="-2466.3325"
+       y="-2552.3325"
        id="text34698"
-       sodipodi:linespacing="521%"><tspan
+       sodipodi:linespacing="150%"><tspan
          sodipodi:role="line"
          id="tspan34700"
          x="160.37109"
-         y="-2466.3325"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#a7a9ac;stroke-width:0.99999994px">The Fedora KDE Plasma Desktop Edition is a powerful Fedora-based </tspan><tspan
+         y="-2552.3325"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#60605b;stroke-width:0.99999994px">The Fedora KDE Plasma Desktop Edition is a powerful Fedora-based </tspan><tspan
          sodipodi:role="line"
          x="160.37109"
-         y="-2442.9993"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#a7a9ac;stroke-width:0.99999994px"
+         y="-2524.3325"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#60605b;stroke-width:0.99999994px"
          id="tspan34702">operating system utilizing the KDE Plasma Desktop as the main user </tspan><tspan
          sodipodi:role="line"
          x="160.37109"
-         y="-2419.6658"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#a7a9ac;stroke-width:0.99999994px"
+         y="-2496.3325"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#60605b;stroke-width:0.99999994px"
          id="tspan34706">interface. </tspan><tspan
          sodipodi:role="line"
          x="160.37109"
-         y="-2396.3325"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#a7a9ac;stroke-width:0.99999994px"
-         id="tspan34714"></tspan><tspan
+         y="-2468.3325"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#60605b;stroke-width:0.99999994px"
+         id="tspan34714" /><tspan
          sodipodi:role="line"
          x="160.37109"
-         y="-2372.9993"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#a7a9ac;stroke-width:0.99999994px"
+         y="-2440.3325"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#60605b;stroke-width:0.99999994px"
          id="tspan34716">Fedora KDE Plasma Desktop comes with many pre-selected </tspan><tspan
          sodipodi:role="line"
          x="160.37109"
-         y="-2349.6658"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#a7a9ac;stroke-width:0.99999994px"
+         y="-2412.3325"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#60605b;stroke-width:0.99999994px"
          id="tspan34708">top quality applications that suit all modern desktop use cases - from </tspan><tspan
          sodipodi:role="line"
          x="160.37109"
-         y="-2326.3325"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#a7a9ac;stroke-width:0.99999994px"
+         y="-2384.3325"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#60605b;stroke-width:0.99999994px"
          id="tspan34710">online communication like web browsing, instant messaging and </tspan><tspan
          sodipodi:role="line"
          x="160.37109"
-         y="-2302.9993"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#a7a9ac;stroke-width:0.99999994px"
+         y="-2356.3325"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#60605b;stroke-width:0.99999994px"
          id="tspan34712">electronic mail correspondence, through multimedia and entertainment, </tspan><tspan
          sodipodi:role="line"
          x="160.37109"
-         y="-2279.6658"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#a7a9ac;stroke-width:0.99999994px"
+         y="-2328.3325"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#60605b;stroke-width:0.99999994px"
          id="tspan34718">to an advanced productivity suite, including office applications and </tspan><tspan
          sodipodi:role="line"
          x="160.37109"
-         y="-2256.3325"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#a7a9ac;stroke-width:0.99999994px"
+         y="-2300.3325"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#60605b;stroke-width:0.99999994px"
          id="tspan34720">enterprise grade personal information management. </tspan><tspan
          sodipodi:role="line"
          x="160.37109"
-         y="-2232.9993"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#a7a9ac;stroke-width:0.99999994px"
-         id="tspan34722"></tspan><tspan
+         y="-2272.3325"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#60605b;stroke-width:0.99999994px"
+         id="tspan34722" /><tspan
          sodipodi:role="line"
          x="160.37109"
-         y="-2209.6658"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#a7a9ac;stroke-width:0.99999994px"
+         y="-2244.3325"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#60605b;stroke-width:0.99999994px"
          id="tspan34724">All KDE applications are well integrated, with a similar look and feel and </tspan><tspan
          sodipodi:role="line"
          x="160.37109"
-         y="-2186.3325"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#a7a9ac;stroke-width:0.99999994px"
+         y="-2216.3325"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#60605b;stroke-width:0.99999994px"
          id="tspan34726">an easy to use interface, accompanied by an outstanding graphical</tspan><tspan
          sodipodi:role="line"
          x="160.37109"
-         y="-2162.9993"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#a7a9ac;stroke-width:0.99999994px"
+         y="-2188.3325"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#60605b;stroke-width:0.99999994px"
          id="tspan34728"> appearance.</tspan></text>
     <g
        id="g34868"
@@ -22507,7 +22507,7 @@ AElFTkSuQmCC
            id="tspan34760">Download Now</tspan></text>
     </g>
     <image
-       y="-3313.6377"
+       y="-3513.6377"
        x="0"
        id="image34523"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAMACAYAAAC6uhUNAAAABHNCSVQICAgIfAhkiAAAIABJREFU
@@ -30562,7 +30562,7 @@ iLuosgAAAABJRU5ErkJggg==
        width="940" />
     <g
        id="g34883"
-       transform="translate(0,-500)">
+       transform="translate(-100,-680)">
       <rect
          transform="scale(1,-1)"
          style="opacity:1;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -30585,5 +30585,73 @@ iLuosgAAAABJRU5ErkJggg==
            x="382.01703"
            sodipodi:role="line">Download Now</tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:24.62237358px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="264.37109"
+       y="-2680.3325"
+       id="text34891"
+       sodipodi:linespacing="521%"><tspan
+         sodipodi:role="line"
+         id="tspan34893"
+         x="264.37109"
+         y="-2680.3325"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';fill:#a7a9ac;stroke-width:0.99999994px">54K Torrent File for 64-bit PC ISO</tspan></text>
+    <text
+       sodipodi:linespacing="521%"
+       id="text34895"
+       y="-1660.3325"
+       x="364.37109"
+       style="font-style:normal;font-weight:normal;font-size:24.62237358px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';fill:#a7a9ac;stroke-width:0.99999994px"
+         y="-1660.3325"
+         x="364.37109"
+         id="tspan34897"
+         sodipodi:role="line">54K Torrent File for 64-bit PC ISO</tspan></text>
+    <text
+       sodipodi:linespacing="521%"
+       id="text34899"
+       y="-2731.3325"
+       x="533.37109"
+       style="font-style:normal;font-weight:normal;font-size:24.62237358px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#3c6eb4;stroke-width:0.99999994px"
+         y="-2731.3325"
+         x="533.37109"
+         id="tspan34901"
+         sodipodi:role="line">How do I use this?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:24.62237358px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="533.37109"
+       y="-2709.3325"
+       id="text34903"
+       sodipodi:linespacing="521%"><tspan
+         sodipodi:role="line"
+         id="tspan34905"
+         x="533.37109"
+         y="-2709.3325"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#3c6eb4;stroke-width:0.99999994px">More download options ...</tspan></text>
+    <rect
+       style="opacity:1;fill:#d1d3d4;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect34907"
+       width="941"
+       height="340.99991"
+       x="0"
+       y="-2130.6377"
+       ry="0" />
+    <text
+       sodipodi:linespacing="150%"
+       id="text34909"
+       y="-2080.8076"
+       x="93.047668"
+       style="font-style:normal;font-weight:normal;font-size:32.8649826px;line-height:150%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan34937"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.91553688px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke-width:0.99999988px"
+         y="-2080.8076"
+         x="93.047668"
+         sodipodi:role="line">Support</tspan></text>
   </g>
 </svg>
