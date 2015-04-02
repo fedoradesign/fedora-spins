@@ -88,7 +88,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="287.24097"
-     inkscape:cy="1624.1711"
+     inkscape:cy="1304.1711"
      inkscape:document-units="px"
      inkscape:current-layer="g34499"
      showgrid="false"
@@ -1156,5 +1156,35 @@
          x="358.5"
          y="-1842.6212"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#60605b;stroke-width:0.99999994px">hardware.</tspan></text>
+    <text
+       sodipodi:linespacing="150%"
+       id="text27808"
+       y="-2143.8301"
+       x="661.26984"
+       style="font-style:normal;font-weight:normal;font-size:32.8649826px;line-height:150%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan27810"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#60605b;stroke-width:0.99999988px"
+         y="-2143.8301"
+         x="661.26984"
+         sodipodi:role="line">Older releases:</tspan></text>
+    <text
+       sodipodi:linespacing="150%"
+       id="text27812"
+       y="-2117.8301"
+       x="691.26984"
+       style="font-style:normal;font-weight:normal;font-size:32.8649826px;line-height:150%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan27814"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333347px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#3c6eb4;stroke-width:0.99999988px"
+         y="-2117.8301"
+         x="691.26984"
+         sodipodi:role="line">archive.fedoraproject.org</tspan></text>
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle27816"
+       cx="676.5"
+       cy="-2123.1382"
+       r="2.5" />
   </g>
 </svg>
