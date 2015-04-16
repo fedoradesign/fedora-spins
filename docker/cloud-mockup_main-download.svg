@@ -87,8 +87,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-74.25903"
-     inkscape:cy="1120.9873"
+     inkscape:cx="216.74097"
+     inkscape:cy="1281.9873"
      inkscape:document-units="px"
      inkscape:current-layer="g34499"
      showgrid="false"
@@ -1173,7 +1173,7 @@ z9gHCDrJ4M0CvVmz2QIxm51Excabw4JeISH9zv8HNPT7YhrvzooAAAAASUVORK5CYII=
          sodipodi:role="line"
          x="57.093952"
          y="-2420.3918"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.91988754px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke-width:0.84954149px">General Purpose Image</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.91988754px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke-width:0.84954149px">Base Cloud Image</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:32.8649826px;line-height:150%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1418,57 +1418,49 @@ z9gHCDrJ4M0CvVmz2QIxm51Excabw4JeISH9zv8HNPT7YhrvzooAAAAASUVORK5CYII=
          x="-702.62891"
          sodipodi:role="line"
          id="tspan9783">or command-line tools.</tspan></text>
-    <g
-       transform="translate(-360,2992)"
-       id="g9719">
-      <g
-         transform="translate(84,-2858)"
-         id="g9721">
-        <rect
-           ry="5.833333"
-           y="2025.6382"
-           x="335"
-           height="39.999992"
-           width="167"
-           id="rect9723"
-           style="opacity:1;fill:#914ebb;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           transform="scale(1,-1)" />
-        <text
-           sodipodi:linespacing="521%"
-           id="text9725"
-           y="-2038.2413"
-           x="378.811"
-           style="font-style:normal;font-weight:normal;font-size:20.01831436px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#294172;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           xml:space="preserve"><tspan
-             id="tspan9727"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.17624569px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#294172;stroke-width:1px"
-             y="-2038.2413"
-             x="378.811"
-             sodipodi:role="line">Download</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:20.01831436px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="377.811"
-           y="-2039.2413"
-           id="text9729"
-           sodipodi:linespacing="521%"><tspan
-             sodipodi:role="line"
-             x="377.811"
-             y="-2039.2413"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.17624569px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff;stroke-width:1px"
-             id="tspan9731">Download</tspan></text>
-      </g>
-    </g>
+    <rect
+       ry="5.833333"
+       y="1991.6382"
+       x="59"
+       height="39.999992"
+       width="167"
+       id="rect9723"
+       style="opacity:1;fill:#914ebb;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="scale(1,-1)" />
+    <text
+       sodipodi:linespacing="521%"
+       id="text9725"
+       y="-2006.2413"
+       x="82.810997"
+       style="font-style:normal;font-weight:normal;font-size:20.01831436px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#294172;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan9727"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.17624569px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#294172;stroke-width:1px"
+         y="-2006.2413"
+         x="82.810997"
+         sodipodi:role="line">Base Cloud HVM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20.01831436px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="81.810997"
+       y="-2007.2413"
+       id="text9729"
+       sodipodi:linespacing="521%"><tspan
+         sodipodi:role="line"
+         x="81.810997"
+         y="-2007.2413"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.17624569px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff;stroke-width:1px"
+         id="tspan9731">Base Cloud HVM</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:24.62237358px;line-height:150%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="61.176758"
-       y="-1871.3965"
+       x="244.17676"
+       y="-2005.3965"
        id="text9733"
        sodipodi:linespacing="150%"><tspan
          sodipodi:role="line"
-         x="61.176758"
-         y="-1871.3965"
+         x="244.17676"
+         y="-2005.3965"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#60605b;stroke-width:0.99999994px"
          id="tspan9735">100 MB 64-bit xz-Compressed Raw Image</tspan></text>
     <text
@@ -1483,17 +1475,71 @@ z9gHCDrJ4M0CvVmz2QIxm51Excabw4JeISH9zv8HNPT7YhrvzooAAAAASUVORK5CYII=
          x="57.093952"
          sodipodi:role="line"
          id="tspan9739">Amazon Public Cloud EC2 Images</tspan></text>
+    <rect
+       transform="scale(1,-1)"
+       style="opacity:1;fill:#914ebb;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect9796"
+       width="167"
+       height="39.999992"
+       x="59"
+       y="1911.6382"
+       ry="5.833333" />
     <text
-       sodipodi:linespacing="150%"
-       id="text9741"
-       y="-1828.8301"
-       x="64.269836"
-       style="font-style:normal;font-weight:normal;font-size:32.8649826px;line-height:150%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20.01831436px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#294172;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="90.810997"
+       y="-1926.2413"
+       id="text9798"
+       sodipodi:linespacing="521%"><tspan
+         sodipodi:role="line"
+         x="90.810997"
+         y="-1926.2413"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.17624569px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#294172;stroke-width:1px"
+         id="tspan9800">Base Cloud PV</tspan></text>
+    <text
+       sodipodi:linespacing="521%"
+       id="text9802"
+       y="-1927.2413"
+       x="89.810997"
+       style="font-style:normal;font-weight:normal;font-size:20.01831436px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         id="tspan9743"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#3c6eb4;stroke-width:0.99999988px"
-         y="-1828.8301"
-         x="64.269836"
-         sodipodi:role="line">Are you an OpenStack user?</tspan></text>
+         id="tspan9804"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.17624569px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff;stroke-width:1px"
+         y="-1927.2413"
+         x="89.810997"
+         sodipodi:role="line">Base Cloud PV</tspan></text>
+    <rect
+       ry="5.833333"
+       y="1831.6382"
+       x="59"
+       height="39.999992"
+       width="167"
+       id="rect9806"
+       style="opacity:1;fill:#914ebb;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="scale(1,-1)" />
+    <text
+       sodipodi:linespacing="521%"
+       id="text9808"
+       y="-1846.2413"
+       x="90.810997"
+       style="font-style:normal;font-weight:normal;font-size:20.01831436px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#294172;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan9810"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.17624569px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#294172;stroke-width:1px"
+         y="-1846.2413"
+         x="90.810997"
+         sodipodi:role="line">Base Cloud PV</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20.01831436px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="89.810997"
+       y="-1847.2413"
+       id="text9812"
+       sodipodi:linespacing="521%"><tspan
+         sodipodi:role="line"
+         x="89.810997"
+         y="-1847.2413"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.17624569px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff;stroke-width:1px"
+         id="tspan9814">Base Cloud PV</tspan></text>
   </g>
 </svg>
