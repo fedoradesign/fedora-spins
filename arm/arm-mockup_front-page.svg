@@ -17,7 +17,7 @@
    inkscape:version="0.91+devel r13893"
    sodipodi:docname="arm-mockup_front-page.svg"
    viewBox="0 0 941 2124"
-   inkscape:export-filename="/home/duffy/SparkleShare/fedora-spins/functional/labs-mockup_front-page.1.png"
+   inkscape:export-filename="/home/duffy/SparkleShare/fedora-spins/arm/arm-mockup_front-page.preview2.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -895,7 +895,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="344.8328"
-     inkscape:cy="1233.2006"
+     inkscape:cy="1553.2006"
      inkscape:document-units="px"
      inkscape:current-layer="g33558"
      showgrid="false"
@@ -1409,30 +1409,30 @@
        id="text7085"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan7087"
          x="61.855804"
          y="-780.25317"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#808080;stroke-width:0.99999994px">These images are</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#808080;stroke-width:0.99999994px"
+         id="tspan7996">These images are geared </tspan><tspan
          sodipodi:role="line"
          x="61.855804"
          y="-759.41986"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#808080;stroke-width:0.99999994px"
-         id="tspan8204">geared towards</tspan><tspan
+         id="tspan9697">towards ARM-based </tspan><tspan
          sodipodi:role="line"
          x="61.855804"
          y="-738.58649"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#808080;stroke-width:0.99999994px"
-         id="tspan8206">ARM-based plug </tspan><tspan
+         id="tspan9699">computers used as </tspan><tspan
          sodipodi:role="line"
          x="61.855804"
          y="-717.75317"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#808080;stroke-width:0.99999994px"
-         id="tspan7805">computers and other </tspan><tspan
+         id="tspan9701">servers, typically in a </tspan><tspan
          sodipodi:role="line"
          x="61.855804"
          y="-696.91986"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#808080;stroke-width:0.99999994px"
-         id="tspan7996">low-power devices.</tspan></text>
+         id="tspan9703">headless environment.</tspan></text>
     <image
        clip-path="url(#clipPath7814)"
        transform="matrix(0,-1,0.3913824,0,164.8887,1000)"
