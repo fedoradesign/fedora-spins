@@ -11,13 +11,13 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="941"
-   height="2124"
+   height="2210"
    id="svg9305"
    version="1.1"
    inkscape:version="0.91+devel r13893"
    sodipodi:docname="arm-mockup_front-page.svg"
-   viewBox="0 0 941 2124"
-   inkscape:export-filename="/home/duffy/SparkleShare/fedora-spins/arm/arm-mockup_front-page.preview3.png"
+   viewBox="0 0 941 2210"
+   inkscape:export-filename="/home/duffy/SparkleShare/fedora-spins/arm/arm-mockup_front-page.preview4.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -895,7 +895,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="111.8328"
-     inkscape:cy="1137.8139"
+     inkscape:cy="497.81386"
      inkscape:document-units="px"
      inkscape:current-layer="g33558"
      showgrid="false"
@@ -922,7 +922,7 @@
        enabled="true"
        snapvisiblegridlinesonly="true"
        originx="0"
-       originy="-0.00020488281" />
+       originy="-0.00024433594" />
     <sodipodi:guide
        orientation="1,0"
        position="0,2839.9999"
@@ -1072,7 +1072,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1080,7 +1080,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,1071.6379)">
+     transform="translate(0,1157.6379)">
     <rect
        y="-1147.6378"
        x="0"
@@ -1150,17 +1150,17 @@
        transform="translate(0,-320)" />
   </g>
   <g
-     transform="translate(0,1071.6379)"
+     transform="translate(0,1157.6379)"
      id="g33558"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1 copy">
     <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect9056"
        width="941"
-       height="2124"
+       height="2210"
        x="0"
-       y="-1071.6379"
+       y="-1157.6379"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -1640,7 +1640,7 @@
          sodipodi:role="line"
          id="tspan9719">ARM-based mediacenters, </tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#808080;stroke-width:0.99999994px"
-         y="-522.58655"
+         y="-522.58649"
          x="61.855804"
          sodipodi:role="line"
          id="tspan9721">kiosks, Chromebooks, </tspan><tspan
@@ -2795,7 +2795,7 @@
          id="g11555-1"
          style="stroke-width:6.1602273">
         <polygon
-           points="191.74219,140.01514 161.93945,149.44482 123.92383,93.78662 123.92383,143.96826 95.64209,148.22705 95.64209,148.22705 95.64209,30.5293 124.22656,27.79297 123.92383,79.49414 161.63672,29.01074 192.04688,36.00293 152.81445,86.48779 "
+           points="123.92383,93.78662 123.92383,143.96826 95.64209,148.22705 95.64209,148.22705 95.64209,30.5293 124.22656,27.79297 123.92383,79.49414 161.63672,29.01074 192.04688,36.00293 152.81445,86.48779 191.74219,140.01514 161.93945,149.44482 "
            style="fill:#ffffff;stroke-width:6.1602273"
            id="path5692_2_-1" />
         <path
