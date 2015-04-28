@@ -895,7 +895,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="111.8328"
-     inkscape:cy="1617.8139"
+     inkscape:cy="861.83406"
      inkscape:document-units="px"
      inkscape:current-layer="g33558"
      showgrid="false"
@@ -1247,7 +1247,11 @@
          id="tspan33620"
          x="509.99609"
          y="-1029.3325"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#a7a9ac;stroke-width:0.99999994px">Fedora Images for ARM Computers</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#a7a9ac;stroke-width:0.99999994px"
+         dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5">Fedora Images for ARM<tspan
+   style="font-size:10.66666698px"
+   id="tspan9227"
+   dy="-5">®</tspan> Computers</tspan></text>
     <g
        style="stroke-width:0.76120102"
        transform="matrix(1.3137134,0,0,1.3137134,-149.34526,-443.0074)"
@@ -1264,8 +1268,9 @@
            x="452.33957"
            y="-465.67776"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Montserrat Alternates';-inkscape-font-specification:'Montserrat Alternates';fill:#294172;stroke-width:0.76120096px">ARM<tspan
-   style="font-size:12.17921638px"
-   id="tspan9054" /></tspan></text>
+   style="font-size:10.14934731px"
+   id="tspan9225"
+   dy="-17.507624">®</tspan></tspan></text>
       <g
          inkscape:export-ydpi="25.525427"
          inkscape:export-xdpi="25.525427"
@@ -1420,7 +1425,11 @@
          y="-930.25317"
          x="61.855804"
          id="tspan7083"
-         sodipodi:role="line">ARM Servers</tspan></text>
+         sodipodi:role="line"
+         dy="0 0 0 0 9">ARM<tspan
+   style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light Italic'"
+   id="tspan9229"
+   dy="-9">®</tspan> Servers</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:28.62836456px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -3095,5 +3104,17 @@
          id="tspan13493">resources. A list of those resources is available at the <tspan
    style="font-weight:bold;font-size:14.66666698px;fill:#3c6eb4"
    id="tspan13495">Fedora 'Get Help' page</tspan>.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:24.62237358px;line-height:150%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#848484;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="106.23936"
+       y="978.18463"
+       id="text9237"
+       sodipodi:linespacing="150%"><tspan
+         sodipodi:role="line"
+         x="106.23936"
+         y="978.18463"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#848484;fill-opacity:1;stroke-width:0.99999994px;"
+         id="tspan9247">ARM is a registered trademark of ARM Limited (or its subsidiaries) in the EU and/or elsewhere. All rights reserved.</tspan></text>
   </g>
 </svg>
