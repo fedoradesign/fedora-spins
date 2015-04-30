@@ -17,7 +17,7 @@
    inkscape:version="0.91+devel r13893"
    sodipodi:docname="arm-mockup_front-page.svg"
    viewBox="0 0 941 2210"
-   inkscape:export-filename="/home/duffy/SparkleShare/fedora-spins/arm/arm-mockup_front-page.preview5.png"
+   inkscape:export-filename="/home/duffy/SparkleShare/fedora-spins/arm/arm-mockup_front-page.preview6.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -895,7 +895,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="678.8328"
-     inkscape:cy="1653.8341"
+     inkscape:cy="693.83406"
      inkscape:document-units="px"
      inkscape:current-layer="g33558"
      showgrid="false"
@@ -1592,7 +1592,7 @@
          sodipodi:role="line">|</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:28.62836456px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:28.62836456px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#0084a9;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="61.855804"
        y="-614.25317"
        id="text8216"
@@ -1601,7 +1601,7 @@
          id="tspan8218"
          x="61.855804"
          y="-614.25317"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#3c6eb4;stroke-width:0.99999994px">Desktop Computing</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#0084a9;stroke-width:0.99999994px;fill-opacity:1;">Desktop Computing</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text8220"
@@ -3243,9 +3243,9 @@
        id="text11776"
        y="-934.25317"
        x="61.855804"
-       style="font-style:normal;font-weight:normal;font-size:28.62836456px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:28.62836456px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#0084a9;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#3c6eb4;stroke-width:0.99999994px"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#0084a9;stroke-width:0.99999994px;fill-opacity:1;"
          y="-934.25317"
          x="61.855804"
          id="tspan11778"
