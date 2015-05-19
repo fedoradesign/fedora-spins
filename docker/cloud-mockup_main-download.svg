@@ -17,7 +17,7 @@
    inkscape:version="0.91+devel r13893"
    sodipodi:docname="cloud-mockup_main-download.svg"
    viewBox="0 0 941 2575.0008"
-   inkscape:export-filename="/home/duffy/SparkleShare/fedora-spins/desktops/spins-mockup_spin-detailsv1.0.png"
+   inkscape:export-filename="/home/duffy/SparkleShare/fedora-spins/docker/base-images.1.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -86,9 +86,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
+     inkscape:zoom="1"
      inkscape:cx="818.77328"
-     inkscape:cy="1541.7845"
+     inkscape:cy="1741.7845"
      inkscape:document-units="px"
      inkscape:current-layer="g34499"
      showgrid="false"
@@ -422,7 +422,7 @@
          x="59.371094"
          y="-2354.3325"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#60605b;stroke-width:0.99999994px"
-         id="tspan9711">This images on this page are Fedora Cloud images for creating general-purpose </tspan><tspan
+         id="tspan9711">The images on this page are Fedora Cloud images for creating general-purpose </tspan><tspan
          sodipodi:role="line"
          x="59.371094"
          y="-2330.3325"
