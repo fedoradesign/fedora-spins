@@ -88,7 +88,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="818.77328"
-     inkscape:cy="1741.7845"
+     inkscape:cy="1981.7845"
      inkscape:document-units="px"
      inkscape:current-layer="g34499"
      showgrid="false"
@@ -1347,9 +1347,9 @@
          y="-2546.3325"
          x="416.37109"
          sodipodi:role="line"
-         id="tspan10789"><tspan
+         id="tspan11208"><tspan
    style="font-weight:bold;fill:#3c6eb4"
-   id="tspan10853">Container deployment images</tspan> powered by Fedora Atomic Host.</tspan></text>
+   id="tspan10853">Atomic Images </tspan>for creating hosts for container deployment.</tspan></text>
     <circle
        r="2.5"
        cy="-2579.1382"
@@ -1452,45 +1452,45 @@
     <rect
        style="opacity:1;fill:#a07cbc;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect10885"
-       width="117.99998"
+       width="135.99997"
        height="46"
-       x="-329"
+       x="-408.98029"
        y="2442.6382"
        transform="scale(-1)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:19.95505714px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="219.21257"
+       x="287.19287"
        y="-2459.6609"
        id="text10859"
        sodipodi:linespacing="125%"><tspan
          id="tspan10861"
          sodipodi:role="line"
-         x="219.21257"
+         x="287.19287"
          y="-2459.6609"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.81069946px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff;stroke-width:1px">Base Image</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.81069946px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff;stroke-width:1px">Base Images</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text10863"
        y="-2459.6609"
-       x="351.21259"
+       x="431.19287"
        style="font-style:normal;font-weight:normal;font-size:19.95505714px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81069946px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff;stroke-width:1px"
          y="-2459.6609"
-         x="351.21259"
+         x="431.19287"
          sodipodi:role="line"
-         id="tspan10865">Container Deployment Images</tspan></text>
+         id="tspan10865">Atomic Images</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:19.95505714px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="639.21259"
+       x="585.19287"
        y="-2459.6609"
        id="text10867"
        sodipodi:linespacing="125%"><tspan
          id="tspan10869"
          sodipodi:role="line"
-         x="639.21259"
+         x="585.19287"
          y="-2459.6609"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.81069946px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff;stroke-width:1px">All Images</tspan></text>
     <rect
@@ -1868,5 +1868,15 @@
          x="56.495632"
          sodipodi:role="line"
          id="tspan11142">Base Cloud Image</tspan></text>
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot11216"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion11218"><rect
+           id="rect11220"
+           width="239"
+           height="53"
+           x="852"
+           y="230.00073" /></flowRegion><flowPara
+         id="flowPara11222"></flowPara></flowRoot>  </g>
 </svg>
