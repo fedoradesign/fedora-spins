@@ -894,8 +894,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="467.33476"
-     inkscape:cy="682.16743"
+     inkscape:cx="873.92087"
+     inkscape:cy="267.16743"
      inkscape:document-units="px"
      inkscape:current-layer="g33558"
      showgrid="false"
@@ -1190,7 +1190,7 @@
     </g>
     <g
        style="stroke-width:1.00363362"
-       transform="matrix(1,0,0,3.300441,0,-711.515)"
+       transform="matrix(1,0,0,3.300441,3,-714.515)"
        id="g16201">
       <image
          y="101.16138"
@@ -2434,7 +2434,7 @@
        width="941"
        height="24"
        x="0"
-       y="686.36212" />
+       y="646.36212" />
     <rect
        style="opacity:1;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect8967"
@@ -2824,18 +2824,6 @@
        height="50"
        x="269"
        y="533.36206" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:28.62836456px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#58595b;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="286.8558"
-       y="563.36206"
-       id="text9260"
-       sodipodi:linespacing="521%"><tspan
-         sodipodi:role="line"
-         id="tspan9262"
-         x="286.8558"
-         y="563.36206"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#58595b;stroke-width:0.99999994px">Installer-based ISO</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:28.62836456px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -3308,5 +3296,155 @@
          x="41.855804"
          id="tspan9613"
          sodipodi:role="line">Installable Image</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:28.62836456px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#58595b;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="238.8558"
+       y="563.36206"
+       id="text9260"
+       sodipodi:linespacing="521%"><tspan
+         sodipodi:role="line"
+         id="tspan9262"
+         x="238.8558"
+         y="563.36206"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#58595b;stroke-width:0.99999994px">Installer-based ISO</tspan></text>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect9633"
+       width="620"
+       height="50"
+       x="269"
+       y="903.36206" />
+    <text
+       sodipodi:linespacing="521%"
+       id="text9635"
+       y="936.36212"
+       x="696.85583"
+       style="font-style:normal;font-weight:normal;font-size:16px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#3c6eb4;stroke-width:0.99999994px"
+         y="936.36212"
+         x="696.85583"
+         id="tspan9637"
+         sodipodi:role="line">Download</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="800.85583"
+       y="936.36212"
+       id="text9643"
+       sodipodi:linespacing="521%"><tspan
+         sodipodi:role="line"
+         id="tspan9645"
+         x="800.85583"
+         y="936.36212"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#3c6eb4;stroke-width:0.99999994px">Checksum</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="782.85583"
+       y="936.36212"
+       id="text9651"
+       sodipodi:linespacing="521%"><tspan
+         sodipodi:role="line"
+         id="tspan9653"
+         x="782.85583"
+         y="936.36212"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#a7a9ac;stroke-width:0.99999994px">|</tspan></text>
+    <rect
+       transform="scale(-1,1)"
+       y="903.36206"
+       x="-280"
+       height="50"
+       width="54"
+       id="rect9661"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:28.62836456px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="41.855804"
+       y="923.74683"
+       id="text9663"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="41.855804"
+         y="923.74683"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#808080;stroke-width:0.99999994px"
+         id="tspan9751">You can also easily </tspan><tspan
+         sodipodi:role="line"
+         x="41.855804"
+         y="944.58014"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#808080;stroke-width:0.99999994px"
+         id="tspan9755">load this Docker image into your running Docker daemon using command:</tspan></text>
+    <text
+       sodipodi:linespacing="521%"
+       id="text9675"
+       y="729.74683"
+       x="41.855804"
+       style="font-style:normal;font-weight:normal;font-size:28.62836456px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#294172;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#294172;fill-opacity:1;stroke-width:0.99999994px"
+         y="729.74683"
+         x="41.855804"
+         id="tspan9677"
+         sodipodi:role="line">Docker Image</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:28.62836456px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#58595b;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="236.8558"
+       y="935.36212"
+       id="text9679"
+       sodipodi:linespacing="521%"><tspan
+         sodipodi:role="line"
+         id="tspan9681"
+         x="236.8558"
+         y="935.36212"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#58595b;stroke-width:0.99999994px">Docker Base Image</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:28.62836456px;line-height:521.00000381%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="454.38708"
+       y="934.74683"
+       id="text9687"
+       sodipodi:linespacing="521%"><tspan
+         sodipodi:role="line"
+         id="tspan9689"
+         x="454.38708"
+         y="934.74683"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#a7a9ac;stroke-width:0.99999994px">64-bit 41MB raw.xz Image</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:28.62836456px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="42.855804"
+       y="766.74683"
+       id="text9695"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan9707"
+         sodipodi:role="line"
+         x="42.855804"
+         y="766.74683"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#808080;stroke-width:0.99999994px">The Fedora Docker Base Image is a minimal Fedora install which can be spawned as a Docker container. </tspan><tspan
+         sodipodi:role="line"
+         x="42.855804"
+         y="787.58014"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#808080;stroke-width:0.99999994px"
+         id="tspan9729">It contains basic tools which can be used as a foundation for building Docker Layered Images - bash, vi </tspan><tspan
+         sodipodi:role="line"
+         x="42.855804"
+         y="808.41351"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.66666603px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#808080;stroke-width:0.99999994px"
+         id="tspan9731">and dnf (and its dependencies).</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:27.10289574px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#707377;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="38.945183"
+       y="875.60107"
+       id="text9733"
+       sodipodi:linespacing="521%"><tspan
+         sodipodi:role="line"
+         id="tspan9735"
+         x="38.945183"
+         y="875.60107"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.67200851px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#707377;fill-opacity:1;stroke-width:0.99999994px">Docker Base Image</tspan></text>
   </g>
 </svg>
