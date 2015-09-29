@@ -10,13 +10,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="940.5"
-   height="3969.1292"
+   width="940"
+   height="3205.1292"
    id="svg9305"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="alt-mockup_front-page.svg"
-   viewBox="0 0 940.5 3969.1292"
+   viewBox="0 0 940 3205.1292"
    inkscape:export-filename="/home/duffy/SparkleShare/fedora-spins/alt-downloads/alt-mockup_front-page_pre1.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -893,9 +893,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
+     inkscape:zoom="0.5"
      inkscape:cx="470.70715"
-     inkscape:cy="1581.2832"
+     inkscape:cy="2380.5483"
      inkscape:document-units="px"
      inkscape:current-layer="g33558"
      showgrid="false"
@@ -922,146 +922,146 @@
        enabled="true"
        snapvisiblegridlinesonly="true"
        originx="0"
-       originy="1795" />
+       originy="1024.9999" />
     <sodipodi:guide
        orientation="1,0"
-       position="0,4635.0002"
+       position="0,3865.0002"
        id="guide9382" />
     <sodipodi:guide
        orientation="1,0"
-       position="60,4634.741"
+       position="60,3864.741"
        id="guide9384" />
     <sodipodi:guide
        orientation="1,0"
-       position="80,4634.741"
+       position="80,3864.741"
        id="guide9386" />
     <sodipodi:guide
        orientation="1,0"
-       position="70,4634.741"
+       position="70,3864.741"
        id="guide9390" />
     <sodipodi:guide
        orientation="1,0"
-       position="140,4634.741"
+       position="140,3864.741"
        id="guide9394" />
     <sodipodi:guide
        orientation="1,0"
-       position="160,4635.0002"
+       position="160,3865.0002"
        id="guide9396" />
     <sodipodi:guide
        orientation="1,0"
-       position="150,4634.741"
+       position="150,3864.741"
        id="guide9398" />
     <sodipodi:guide
        orientation="1,0"
-       position="220,4634.741"
+       position="220,3864.741"
        id="guide9424" />
     <sodipodi:guide
        orientation="1,0"
-       position="240,4634.741"
+       position="240,3864.741"
        id="guide9426" />
     <sodipodi:guide
        orientation="1,0"
-       position="230,4635.0002"
+       position="230,3865.0002"
        id="guide9428" />
     <sodipodi:guide
        orientation="1,0"
-       position="300,4634.741"
+       position="300,3864.741"
        id="guide9430" />
     <sodipodi:guide
        orientation="1,0"
-       position="320,4635.0002"
+       position="320,3865.0002"
        id="guide9432" />
     <sodipodi:guide
        orientation="1,0"
-       position="310,4634.741"
+       position="310,3864.741"
        id="guide9434" />
     <sodipodi:guide
        orientation="1,0"
-       position="380,4634.741"
+       position="380,3864.741"
        id="guide9436" />
     <sodipodi:guide
        orientation="1,0"
-       position="400,4634.741"
+       position="400,3864.741"
        id="guide9438" />
     <sodipodi:guide
        orientation="1,0"
-       position="390,4634.741"
+       position="390,3864.741"
        id="guide9440" />
     <sodipodi:guide
        orientation="1,0"
-       position="460,4634.741"
+       position="460,3864.741"
        id="guide9442" />
     <sodipodi:guide
        orientation="1,0"
-       position="470,4634.741"
+       position="470,3864.741"
        id="guide9444" />
     <sodipodi:guide
        orientation="1,0"
-       position="480,4635.0002"
+       position="480,3865.0002"
        id="guide9446" />
     <sodipodi:guide
        orientation="1,0"
-       position="540,4634.741"
+       position="540,3864.741"
        id="guide9448" />
     <sodipodi:guide
        orientation="1,0"
-       position="550,4634.741"
+       position="550,3864.741"
        id="guide9450" />
     <sodipodi:guide
        orientation="1,0"
-       position="560,4634.741"
+       position="560,3864.741"
        id="guide9452" />
     <sodipodi:guide
        orientation="1,0"
-       position="620,4634.741"
+       position="620,3864.741"
        id="guide9454" />
     <sodipodi:guide
        orientation="1,0"
-       position="630,4634.741"
+       position="630,3864.741"
        id="guide9456" />
     <sodipodi:guide
        orientation="1,0"
-       position="640,4634.741"
+       position="640,3864.741"
        id="guide9458" />
     <sodipodi:guide
        orientation="1,0"
-       position="700,4634.741"
+       position="700,3864.741"
        id="guide9460" />
     <sodipodi:guide
        orientation="1,0"
-       position="710,4635.0002"
+       position="710,3865.0002"
        id="guide9462" />
     <sodipodi:guide
        orientation="1,0"
-       position="720,4634.741"
+       position="720,3864.741"
        id="guide9464" />
     <sodipodi:guide
        orientation="1,0"
-       position="780,4635.0002"
+       position="780,3865.0002"
        id="guide9466" />
     <sodipodi:guide
        orientation="1,0"
-       position="790,4635.0002"
+       position="790,3865.0002"
        id="guide9468" />
     <sodipodi:guide
        orientation="1,0"
-       position="800,4634.741"
+       position="800,3864.741"
        id="guide9470" />
     <sodipodi:guide
        orientation="1,0"
-       position="860,4634.741"
+       position="860,3864.741"
        id="guide9472" />
     <sodipodi:guide
        orientation="1,0"
-       position="880,4634.741"
+       position="880,3864.741"
        id="guide9474" />
     <sodipodi:guide
        orientation="1,0"
-       position="870,4635.0002"
+       position="870,3865.0002"
        id="guide9476" />
     <sodipodi:guide
        orientation="1,0"
-       position="940,4634.741"
+       position="940,3864.741"
        id="guide9478" />
   </sodipodi:namedview>
   <metadata
@@ -1080,7 +1080,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,1121.7668)">
+     transform="translate(0,1127.7668)">
     <rect
        y="-1147.6378"
        x="0"
@@ -1096,7 +1096,7 @@
        style="opacity:1;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect33536"
        width="940"
-       height="230.00002"
+       height="206.00002"
        x="0"
        y="1206.3623" />
     <text
@@ -1148,10 +1148,10 @@
        height="439"
        width="948"
        clip-path="url(#clipPath33312)"
-       transform="translate(0,906)" />
+       transform="translate(0,706)" />
   </g>
   <g
-     transform="translate(0,1121.7668)"
+     transform="translate(0,1127.7668)"
      id="g33558"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1 copy">
@@ -1208,7 +1208,7 @@
        id="rect8262"
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
-       y="1116.3623"
+       y="1114.3623"
        x="0"
        height="287.00003"
        width="940"
@@ -1237,34 +1237,34 @@
          x="93.58596"
          y="1220.5835"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';fill:#ffffff;stroke-width:0.99999994px"
-         id="tspan16224">ARM microprocessors are the most widely-produced processor family in the world; they have </tspan><tspan
+         id="tspan7457">These Fedora downloads are either special-purpose - for testing, for specific secondary </tspan><tspan
          sodipodi:role="line"
          x="93.58596"
          y="1243.9169"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';fill:#ffffff;stroke-width:0.99999994px"
-         id="tspan5567">historically been used in cell phones and embedded applications, and are increasingly used in </tspan><tspan
+         id="tspan13449">architectures - or are more standard versions of Fedora in alternative formats such network</tspan><tspan
          sodipodi:role="line"
          x="93.58596"
          y="1267.2501"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';fill:#ffffff;stroke-width:0.99999994px"
-         id="tspan5569">tablet devices and low-power-consumption servers.</tspan><tspan
+         id="tspan13453">installer format or formatted for bittorrent download.</tspan><tspan
          sodipodi:role="line"
          x="93.58596"
          y="1290.5835"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';fill:#ffffff;stroke-width:0.99999994px"
-         id="tspan5563" /><tspan
+         id="tspan13455" /><tspan
          sodipodi:role="line"
          x="93.58596"
          y="1313.9169"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';fill:#ffffff;stroke-width:0.99999994px"
-         id="tspan5571">The Fedora ARM project is an initiative to bring Fedora to this processor family. The images </tspan><tspan
+         id="tspan13457">This page is meant to serve as a single central resource for locating alternative versions of</tspan><tspan
          sodipodi:role="line"
          x="93.58596"
          y="1337.2501"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';fill:#ffffff;stroke-width:0.99999994px"
-         id="tspan7457">provided here are versions of Fedora tailored for running in on ARM-based systems.</tspan></text>
+         id="tspan13459">Fedora. </tspan></text>
     <image
-       transform="translate(0,906)"
+       transform="translate(0,706)"
        clip-path="url(#clipPath33312)"
        width="948"
        height="439"
@@ -1280,7 +1280,7 @@
        width="685"
        height="64"
        x="105"
-       y="2144.3621" />
+       y="1944.3621" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot15579"
@@ -1874,49 +1874,49 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:32.8649826px;line-height:150%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="705.04767"
-       y="1563.6921"
+       x="1633.0476"
+       y="1525.6921"
        id="text35043"
        sodipodi:linespacing="150%"><tspan
          sodipodi:role="line"
-         x="705.04767"
-         y="1563.6921"
+         x="1633.0476"
+         y="1525.6921"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke-width:0.99999988px"
          id="tspan35045">Chat</tspan></text>
     <text
        sodipodi:linespacing="150%"
        id="text35047"
-       y="1556.6921"
-       x="442.04767"
+       y="1518.6921"
+       x="1370.0476"
        style="font-style:normal;font-weight:normal;font-size:32.8649826px;line-height:150%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan35049"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke-width:0.99999988px"
-         y="1556.6921"
-         x="442.04767"
+         y="1518.6921"
+         x="1370.0476"
          sodipodi:role="line">Email</tspan></text>
     <text
        sodipodi:linespacing="150%"
        id="text35055"
-       y="1609.1672"
-       x="636.37109"
+       y="1571.1672"
+       x="1564.3711"
        style="font-style:normal;font-weight:normal;font-size:24.62237358px;line-height:150%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke-width:0.99999994px"
-         y="1609.1672"
-         x="636.37109"
+         y="1571.1672"
+         x="1564.3711"
          sodipodi:role="line"
          id="tspan35193">Users and developers are available </tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke-width:0.99999994px"
-         y="1633.1672"
-         x="636.37109"
+         y="1595.1672"
+         x="1564.3711"
          sodipodi:role="line"
          id="tspan35197">in the<tspan
    style="font-weight:bold;fill:#3c6eb4"
    id="tspan35195"> #fedora-arm </tspan>irc channel on </tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke-width:0.99999994px"
-         y="1657.1672"
-         x="636.37109"
+         y="1619.1672"
+         x="1564.3711"
          sodipodi:role="line"
          id="tspan35201"><tspan
    style="font-weight:bold;fill:#000000"
@@ -1924,46 +1924,46 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="639"
-       y="1565.8618"
+       x="1567"
+       y="1527.8618"
        id="text13315"
        sodipodi:linespacing="521%"><tspan
          sodipodi:role="line"
          id="tspan13317"
-         x="639"
-         y="1565.8618"></tspan></text>
+         x="1567"
+         y="1527.8618"></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:32.8649826px;line-height:150%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="380.04767"
-       y="1562.6921"
+       x="1308.0476"
+       y="1524.6921"
        id="text13319"
        sodipodi:linespacing="150%"><tspan
          sodipodi:role="line"
-         x="380.04767"
-         y="1562.6921"
+         x="1308.0476"
+         y="1524.6921"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:150%;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;fill:#000000;stroke-width:0.99999988px"
          id="tspan13321"></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:24.62237358px;line-height:150%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="378.37109"
-       y="1609.1672"
+       x="1306.3711"
+       y="1571.1672"
        id="text13351"
        sodipodi:linespacing="150%"><tspan
          sodipodi:role="line"
-         x="378.37109"
-         y="1609.1672"
+         x="1306.3711"
+         y="1571.1672"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke-width:0.99999994px"
          id="tspan13397">Users and developers are also </tspan><tspan
          sodipodi:role="line"
-         x="378.37109"
-         y="1633.1672"
+         x="1306.3711"
+         y="1595.1672"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke-width:0.99999994px"
          id="tspan13403">available on the mailing list at </tspan><tspan
          sodipodi:role="line"
-         x="378.37109"
-         y="1657.1672"
+         x="1306.3711"
+         y="1619.1672"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke-width:0.99999994px"
          id="tspan13405"><tspan
    style="font-weight:bold;fill:#3c6eb4"
@@ -1971,89 +1971,89 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:32.8649826px;line-height:150%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="130.04773"
-       y="1553.6921"
+       x="1058.0477"
+       y="1515.6921"
        id="text35051"
        sodipodi:linespacing="150%"><tspan
          sodipodi:role="line"
-         x="130.04773"
-         y="1553.6921"
+         x="1058.0477"
+         y="1515.6921"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke-width:0.99999988px"
          id="tspan35053">Documentation</tspan></text>
     <text
        sodipodi:linespacing="150%"
        id="text13365"
-       y="1560.6921"
-       x="80.047729"
+       y="1522.6921"
+       x="1008.0477"
        style="font-style:normal;font-weight:normal;font-size:32.8649826px;line-height:150%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan13367"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:150%;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;fill:#000000;stroke-width:0.99999988px"
-         y="1560.6921"
-         x="80.047729"
+         y="1522.6921"
+         x="1008.0477"
          sodipodi:role="line"></tspan></text>
     <text
        sodipodi:linespacing="150%"
        id="text13369"
-       y="1607.1672"
-       x="76.371094"
+       y="1569.1672"
+       x="1004.3711"
        style="font-style:normal;font-weight:normal;font-size:24.62237358px;line-height:150%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke-width:0.99999994px"
-         y="1607.1672"
-         x="76.371094"
+         y="1569.1672"
+         x="1004.3711"
          sodipodi:role="line"
-         id="tspan13425">Fedora ARM documentation and </tspan><tspan
+         id="tspan13425">General Fedora documentation and </tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke-width:0.99999994px"
-         y="1631.1672"
-         x="76.371094"
+         y="1593.1672"
+         x="1004.3711"
          sodipodi:role="line"
          id="tspan13431">installation guides are available at </tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke-width:0.99999994px"
-         y="1655.1672"
-         x="76.371094"
+         y="1617.1672"
+         x="1004.3711"
          sodipodi:role="line"
          id="tspan13437">the <tspan
    style="font-weight:bold;fill:#3c6eb4"
-   id="tspan13439">Fedora ARM wiki page.</tspan></tspan></text>
+   id="tspan13439">Fedora Documentation Site.</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:26.74867058px;line-height:150%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="372.29181"
-       y="1741.6531"
+       y="1541.6531"
        id="text13460"
        sodipodi:linespacing="150%"><tspan
          sodipodi:role="line"
          x="372.29181"
-         y="1741.6531"
+         y="1541.6531"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.49333382px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke-width:0.99999994px"
          id="tspan13462">General Help Using Fedora</tspan></text>
     <text
        sodipodi:linespacing="150%"
        id="text13464"
-       y="1742.6921"
+       y="1542.6921"
        x="344.04767"
        style="font-style:normal;font-weight:normal;font-size:32.8649826px;line-height:150%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan13466"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:150%;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;fill:#000000;stroke-width:0.99999988px"
-         y="1742.6921"
+         y="1542.6921"
          x="344.04767"
          sodipodi:role="line"></tspan></text>
     <text
        sodipodi:linespacing="150%"
        id="text13468"
-       y="1779.1672"
+       y="1579.1672"
        x="114.37109"
        style="font-style:normal;font-weight:normal;font-size:24.62237358px;line-height:150%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke-width:0.99999994px"
-         y="1779.1672"
+         y="1579.1672"
          x="114.37109"
          sodipodi:role="line"
          id="tspan13491">Sometimes you may encounter an issue with this spin that you can get help  with using general Fedora support </tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke-width:0.99999994px"
-         y="1801.1672"
+         y="1601.1672"
          x="114.37109"
          sodipodi:role="line"
          id="tspan13493">resources. A list of those resources is available at the <tspan
@@ -2062,37 +2062,37 @@
     <text
        sodipodi:linespacing="150%"
        id="text11712"
-       y="2218.1846"
+       y="2018.1846"
        x="106.23936"
        style="font-style:normal;font-weight:normal;font-size:24.62237358px;line-height:150%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#848484;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan11714"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#848484;fill-opacity:1;stroke-width:0.99999994px"
-         y="2218.1846"
+         y="2018.1846"
          x="106.23936"
          sodipodi:role="line">This website is independent and it is not affiliated with, or endorsed, sponsored or authorized by ARM Limited.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:24.62237358px;line-height:150%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#848484;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="106.23936"
-       y="2202.1846"
+       y="2002.1846"
        id="text11760"
        sodipodi:linespacing="150%"><tspan
          sodipodi:role="line"
          x="106.23936"
-         y="2202.1846"
+         y="2002.1846"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#848484;fill-opacity:1;stroke-width:0.99999994px"
          id="tspan11762">© 2015 Red Hat, Inc. and others.</tspan></text>
     <text
        sodipodi:linespacing="150%"
        id="text11770"
-       y="2178.1846"
+       y="1978.1846"
        x="106.23936"
        style="font-style:normal;font-weight:normal;font-size:24.62237358px;line-height:150%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan11772"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;fill-opacity:1;stroke-width:0.99999994px"
-         y="2178.1846"
+         y="1978.1846"
          x="106.23936"
          sodipodi:role="line">Learn more about the relationship between Red Hat and Fedora »</tspan></text>
     <text
