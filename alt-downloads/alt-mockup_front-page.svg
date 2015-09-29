@@ -895,7 +895,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
      inkscape:cx="470.70715"
-     inkscape:cy="2380.5483"
+     inkscape:cy="1900.5483"
      inkscape:document-units="px"
      inkscape:current-layer="g33558"
      showgrid="false"
@@ -4096,5 +4096,22 @@
          x="782.85583"
          id="tspan13370"
          sodipodi:role="line">|</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text13505"
+       y="-548.25317"
+       x="-352.1442"
+       style="font-style:normal;font-weight:normal;font-size:28.62836456px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#db3279;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#db3279;fill-opacity:1;stroke-width:0.99999994px;line-height:100%;"
+         y="-548.25317"
+         x="-352.1442"
+         id="tspan13507"
+         sodipodi:role="line">Need support options</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#db3279;fill-opacity:1;stroke-width:0.99999994px;line-height:100%;"
+         y="-423.21317"
+         x="-352.1442"
+         sodipodi:role="line"
+         id="tspan13509">for each image type!</tspan></text>
   </g>
 </svg>
